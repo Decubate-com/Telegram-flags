@@ -1,2 +1,2 @@
 # Telegram-flags
-A file containing all flagged sentences that will be removed from the DCB Telegram Channel
+Each line in the `flags`-file is a word or sentence. If a message in the Telegram group contains a flag, the message will be removed.
